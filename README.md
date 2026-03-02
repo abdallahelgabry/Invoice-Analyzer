@@ -5,7 +5,7 @@ An AI-powered invoice analysis tool built on **OCI Generative AI** using **Coher
 ---
 ## 📸 Screenshots
 
-![Over View](screenshots/demo_1.png)
+![OverView](screenshots/demo_1.png)
 ![Results](screenshots/demo_2.png)
 
 ---
