@@ -3,7 +3,7 @@
 An AI-powered invoice analysis tool built on **OCI Generative AI** using **Cohere Command-A**. Upload any invoice and instantly get structured data, anomaly detection, and a plain-English summary.
 
 ---
-## 📸 Screenshots
+## Demo
 
 ![OverView](screenshots/demo_1.png)
 ![Results](screenshots/demo_2.png)
